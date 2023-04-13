@@ -1,0 +1,9 @@
+npm i express socket.io cors morgan
+npm i nodemon -D
+
+
+
+npm start 
+
+npx create-react-app client
+
